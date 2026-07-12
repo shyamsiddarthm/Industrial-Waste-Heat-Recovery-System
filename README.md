@@ -1,5 +1,7 @@
 # Industrial Waste Heat Recovery System for Air Compressor and Thermopac Exhaust
 
+![Waste Heat Recovery System](Images/heat_recovery_system.png)
+
 ## Overview
 
 Air compressors and Thermopac boilers reject a significant amount of thermal energy during normal plant operation. This project proposes a two-stage waste heat recovery system that captures this energy to preheat demineralized water used in DC washing processes at Wheels India Limited.
@@ -63,6 +65,8 @@ The proposed system can be implemented with minimal modification to the existing
 - A flue gas economizer recovers additional heat from the Thermopac chimney exhaust.
 - The preheated water is stored in the existing DM water tank before being supplied to the DC washing process.
 - Temperature sensors, control valves and circulation pumps are incorporated to ensure safe and efficient operation.
+
+![Implementation Overview](Images/implementation_overview.png)
 
 ## Technical Observations
 
