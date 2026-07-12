@@ -6,22 +6,6 @@ Industrial washing processes consume a significant amount of thermal energy for 
 
 The project was developed during my internship at Wheels India Limited as a solution to improve energy efficiency, reduce operating costs and support sustainable manufacturing practices.
 
-# Design Objectives
-
-| Objective | Description |
-|-----------|-------------|
-| Heat Source 1 | Compressor lubricating oil |
-| Heat Source 2 | Thermopac chimney exhaust |
-| Target | Reduce LDO consumption |
-| Application | DC Washing Process |
-| Industry | Wheels India Ltd. |
-
-## Industrial Background
-
-The existing system generates hot water by burning LDO inside Thermopac boilers. Large quantities of useful heat produced by compressors and boiler exhaust gases are normally rejected to the surroundings.
-
-Recovering this waste heat allows the plant to utilize available thermal energy instead of generating new heat through additional fuel consumption.
-
 ## Existing system
 
 The existing DC washing process at Wheels India Limited uses Thermopac boilers fired with Light Diesel Oil (LDO) to heat Thermo-32 oil, which is then used to produce hot water for industrial washing operations.
