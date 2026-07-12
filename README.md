@@ -2,9 +2,9 @@
 
 ## Overview
 
-Industrial washing processes consume a significant amount of thermal energy for hot water generation. This project proposes a waste heat recovery system that utilizes heat rejected by air compressor lubricating oil and Thermopac exhaust gases to reduce fossil fuel consumption during DC washing operations at Wheels India Limited.
+Air compressors and Thermopac boilers reject a significant amount of thermal energy during normal plant operation. This project proposes a two-stage waste heat recovery system that captures this energy to preheat demineralized water used in DC washing processes at Wheels India Limited.
 
-The project was developed during my internship at Wheels India Limited as a solution to improve energy efficiency, reduce operating costs and support sustainable manufacturing practices.
+The solution was developed during my internship to improve energy efficiency, reduce Light Diesel Oil (LDO) consumption and support sustainable manufacturing practices.
 
 ## Existing system
 
@@ -42,6 +42,20 @@ The combined system reduces the dependence on fossil fuel while utilizing energy
 - Better utilization of waste heat.
 - Supports sustainable manufacturing practices.
 - Minimal modification to the existing plant.
+
+## My Contribution
+
+This project was carried out during my internship at Wheels India Limited.
+
+My primary contributions included:
+
+- Identifying waste heat sources within the plant.
+- Developing the proposed heat recovery concept.
+- Performing engineering calculations and feasibility analysis.
+- Preparing system diagrams and technical documentation.
+- Presenting the proposed solution to the company.
+
+
 
 
   
