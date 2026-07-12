@@ -39,4 +39,25 @@ The existing heating system presents several engineering challenges:
 - Higher carbon emissions and environmental impact.
 - Opportunity to recover available waste heat remains unused.
 
+## Proposed Solution
+
+The proposed system utilizes two independent sources of waste heat available within the plant:
+
+1. **Compressor Oil Heat Recovery** – Heat from compressor lubricating oil is transferred to demineralized (DM) water through a plate-type heat exchanger.
+
+2. **Thermopac Chimney Heat Recovery** – Heat from the Thermopac exhaust gases is recovered using a flue gas economizer to further increase the water temperature before entering the washing process.
+
+The combined system reduces the dependence on fossil fuel while utilizing energy that would otherwise be wasted.
+
+## Benefits
+
+- Reduced Light Diesel Oil (LDO) consumption.
+- Improved overall thermal efficiency.
+- Lower operating cost.
+- Reduced carbon dioxide emissions.
+- Better utilization of waste heat.
+- Supports sustainable manufacturing practices.
+- Minimal modification to the existing plant.
+
+
   
