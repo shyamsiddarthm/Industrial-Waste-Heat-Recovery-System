@@ -55,6 +55,34 @@ My primary contributions included:
 - Preparing system diagrams and technical documentation.
 - Presenting the proposed solution to the company.
 
+## Implementation Overview
+
+The proposed system can be implemented with minimal modification to the existing plant.
+
+- A plate-type heat exchanger transfers heat from compressor lubricating oil to demineralized (DM) water.
+- A flue gas economizer recovers additional heat from the Thermopac chimney exhaust.
+- The preheated water is stored in the existing DM water tank before being supplied to the DC washing process.
+- Temperature sensors, control valves and circulation pumps are incorporated to ensure safe and efficient operation.
+
+## Technical Observations
+
+The proposed system demonstrated the feasibility of utilizing waste heat available within the plant.
+
+Key observations include:
+
+- Compressor oil increased the water temperature from approximately 70 °C to 77 °C.
+- Additional heat recovery from the Thermopac exhaust can further increase the water temperature.
+- The recovered heat has the potential to significantly reduce Light Diesel Oil (LDO) consumption.
+- The proposed system requires only minor modifications to the existing infrastructure.
+
+## Conclusion
+
+The proposed waste heat recovery system provides a practical approach to improving energy efficiency in industrial washing processes by utilizing heat that would otherwise be lost.
+
+By recovering energy from compressor lubricating oil and Thermopac exhaust gases, the system has the potential to reduce fuel consumption, lower operating costs and support sustainable manufacturing practices with minimal changes to the existing plant.
+
+
+
 
 
 
