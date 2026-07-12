@@ -21,3 +21,22 @@ The objective of this project was to design a practical waste heat recovery syst
 The existing system generates hot water by burning LDO inside Thermopac boilers. Large quantities of useful heat produced by compressors and boiler exhaust gases are normally rejected to the surroundings.
 
 Recovering this waste heat allows the plant to utilize available thermal energy instead of generating new heat through additional fuel consumption.
+
+## Existing System
+
+The existing DC washing process at Wheels India Limited uses Thermopac boilers fired with Light Diesel Oil (LDO) to heat Thermo-32 oil, which is then used to produce hot water for industrial washing operations.
+
+Although this arrangement is reliable, a considerable amount of thermal energy is rejected through compressor cooling systems and Thermopac chimney exhaust, resulting in unnecessary fuel consumption and reduced overall energy efficiency.
+
+## Problem Statement
+
+The existing heating system presents several engineering challenges:
+
+- High dependence on Light Diesel Oil (LDO).
+- Significant waste heat from air compressors.
+- Thermal energy loss through Thermopac chimney exhaust.
+- Increased operating cost due to fuel consumption.
+- Higher carbon emissions and environmental impact.
+- Opportunity to recover available waste heat remains unused.
+
+  
