@@ -10,7 +10,7 @@ The solution was developed during my internship to improve energy efficiency, re
 
 The existing DC washing process at Wheels India Limited uses Thermopac boilers fired with Light Diesel Oil (LDO) to heat Thermo-32 oil, which is then used to produce hot water for industrial washing operations.
 
-Although this arrangement is reliable, a considerable amount of thermal energy is rejected through compressor cooling systems and Thermopac chimney exhaust, resulting in unnecessary fuel consumption and reduced overall energy efficiency.
+However, significant thermal energy from compressor lubricating oil and Thermopac chimney exhaust is rejected to the surroundings without recovery, resulting in unnecessary fuel consumption and lower overall energy efficiency.
 
 ## Problem Statement
 
@@ -35,13 +35,13 @@ The combined system reduces the dependence on fossil fuel while utilizing energy
 
 ## Benefits
 
-- Reduced Light Diesel Oil (LDO) consumption.
-- Improved overall thermal efficiency.
-- Lower operating cost.
-- Reduced carbon dioxide emissions.
-- Better utilization of waste heat.
-- Supports sustainable manufacturing practices.
-- Minimal modification to the existing plant.
+- [x] Reduced Light Diesel Oil (LDO) consumption
+- [x] Improved thermal efficiency
+- [x] Lower operating cost
+- [x] Reduced CO₂ emissions
+- [x] Better utilization of waste heat
+- [x] Supports sustainable manufacturing
+- [x] Minimal modification to the existing plant
 
 ## My Contribution
 
